@@ -1,0 +1,188 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: #0F0617;
+    color: white;
+
+}
+  
+    li {
+        display: inline;
+        margin-right: 30px;
+    }
+    img{
+        position:relative;
+        width: 50px;
+        top: 65px;
+        margin-left: 35px;
+    }
+    #a{
+        margin-left: 120px;
+    }
+    nav{
+        position: relative;
+        bottom: 50px;
+    }
+    .carousel-inner{
+        position: relative;
+        right: 20px;
+        bottom: 10px;
+    }
+    #carouselExampleIndicators{
+        position: relative;
+        bottom: 120px;
+    }
+    .carousel-indicators{
+        position: relative;
+        bottom: 100px;
+    }
+    #full{
+        background-color: #0F0617;
+
+    }
+    .one{
+        position: relative;
+        padding: 6px 8px;
+        border-radius: 8px;
+        font-family: NotoSansBold,sans-serif;
+        font-weight: 700;
+        border: 1px solid white;
+        color: white;
+        background-color:transparent;
+        transition-duration: .5s;
+        left: 700px;
+    }
+    .one:hover{
+        color: black;
+        background-color: white;
+    }
+    .two{
+        padding: 12px 18px;  
+        border: none; 
+        border-radius: 8px;  
+        font-family: NotoSansBold,sans-serif;
+        font-size: 1rem;
+        font-weight: 700;
+        line-height: 1.3em; 
+        color: white;
+        background-color: #5C1695;
+        font-size: small;
+        position: relative;
+        left: 700px;
+    }
+    #ham{
+        position: relative;
+        left: 700px;
+    }
+    #trans{
+        position: relative;
+        left: 380px;
+    }
+    #search{
+        background-color: transparent;
+        border: 2px solid #5B458B;
+        border-radius: 8px;
+        padding: 10px 26px;
+        position: relative;
+        width: 300px;
+    }
+    #icon{
+        position: relative;
+        right: 320px;
+    }
+    #trend{
+        position: relative;
+        bottom: 90px;
+    }
+    #trend2{
+        position: relative;
+        bottom: 60px;
+    }
+    #trend-text{
+        position: relative;
+        margin-left: 40px;
+        font: inherit;
+        font-size: x-large;
+    }
+    .column {
+        float: left;
+        position: relative;
+        bottom: 140px;
+        margin-left: 20px;
+    }
+    #size{
+        position: relative;
+        width: 250px;
+    }
+    .row2{
+        position: relative;
+        top: 30px;
+        right: 20px;
+    }
+    #footer{
+        position: relative;
+        top: 400px;
+        /* right: 140px; */
+    }
+    #abc{
+        color: white;
+        /* border: 1px solid red; */
+        margin-top:300px;
+        width: 1350px;
+        height: 80px;
+        position: relative;
+        margin-left: 30px;
+    }
+    #play{
+        position: absolute;
+        width: 150px;
+        bottom: 60px;
+        margin-bottom: 20px;
+    }
+    #store{
+        position: absolute;
+        margin-left: 250px;
+        width: 150px;
+        margin-bottom: 30px;
+
+    }
+#idhu{
+    margin-left: 900px;
+}
+#f1{
+    /* border: 1px solid red; */
+    top: 40px;
+    display: inline;
+    margin-left: 20px;
+    position: relative;
+    left: 30px;
+    font-size: small;
+}
+#f2{
+    display: inline;
+    position: relative;
+    left: 360px;
+    bottom: 95px;
+}
+#f3{
+    display: inline;
+    position: relative;
+    left: 650px;
+    bottom: 235px;
+}
+#f4{
+    display: inline;
+    position: relative;
+    left: 1000px;
+    bottom: 390px;
+}
+#f5{
+    display: inline;
+    position: relative;
+    left: 1300px;
+    bottom: 540px;
+}
